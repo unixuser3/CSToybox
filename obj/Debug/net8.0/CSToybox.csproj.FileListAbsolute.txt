@@ -1,0 +1,14 @@
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/bin/Debug/net8.0/CSToybox
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/bin/Debug/net8.0/CSToybox.deps.json
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/bin/Debug/net8.0/CSToybox.runtimeconfig.json
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/bin/Debug/net8.0/CSToybox.dll
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/bin/Debug/net8.0/CSToybox.pdb
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/CSToybox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/CSToybox.AssemblyInfoInputs.cache
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/CSToybox.AssemblyInfo.cs
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/CSToybox.csproj.CoreCompileInputs.cache
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/CSToybox.dll
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/refint/CSToybox.dll
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/CSToybox.pdb
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/CSToybox.genruntimeconfig.cache
+/Users/unixuser3/Desktop/Development/CSToybox/CSToybox/obj/Debug/net8.0/ref/CSToybox.dll
